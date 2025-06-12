@@ -6,7 +6,7 @@ EVE_ONLINE_LAUNCHER_URL="https://launcher.ccpgames.com/eve-online/release/win32/
 EVE_ONLINE_LAUNCHER_NAME="eve-online-1.9.4-full.nupkg"
 EVE_ONLINE_LAUNCHER_SHA512="70cd86437d7de0566228b7a5b0a5abd2c6c83bd3c6cb7e8f09678dec75c2f3ed2ca3b323227947c81c127ac41a0b27a052157baec1f4feecca6885518c9417a0"
 
-# Change to the XDG data directory (usually ~/.local/share)
+# Change to the XDG data directory
 cd "$XDG_DATA_HOME"
 # Source constants (sets up environment variables)
 . /app/constants.sh
